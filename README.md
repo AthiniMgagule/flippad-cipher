@@ -33,7 +33,7 @@ The FlipPad Cipher is a custom encryption method that combines a unique transfor
 To use the FlipPad Cipher:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AthiniMgagule.flippad-cipher.git
+   git clone https://github.com/AthiniMgagule/flippad-cipher.git
    ```
 2. Navigate to the project directory:
    ```bash
